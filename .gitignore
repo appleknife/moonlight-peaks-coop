@@ -1,0 +1,6 @@
+game/
+out/
+*.user
+*.pdb
+BepInEx_LogOutput.log
+coop-saves/
